@@ -1,0 +1,38 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/coleifer/kt/commit/40b62f46862061f2207ad922413d4e4cd66996ab",
+  "@type": "git:Commit",
+  "git:hexsha": "40b62f46862061f2207ad922413d4e4cd66996ab",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/coleifer/kt"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/40b62f46862061f2207ad922413d4e4cd66996ab.nq.gz",
+      "repolex:graphFileSize": 4630
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 84908
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 477
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 1255
+    }
+  ],
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-10-20T20:53:52.668228+00:00",
+  "repolex:parserVersion": "0.1.10"
+}
